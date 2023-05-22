@@ -716,12 +716,12 @@ h3.my-profession
     text-transform: capitalize;
 }
 
-/* .service .service-item .service-item-inner p
+.service .service-item .service-item-inner p
 {
     font-size: 16px;
     color: var(--text-black-700);
     line-height: 25px;
-} */
+}
 
 .project .container
 {
